@@ -1,0 +1,2 @@
+PyGObject==3.36.1
+Flask==1.1.2
